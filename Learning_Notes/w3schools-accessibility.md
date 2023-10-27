@@ -92,15 +92,15 @@ While the [website for inclusive design principles](https://inclusivedesignprinc
 - Colour contrast has to be good for *all* states: hover, focus, active, unvisited, visited, deactivated...
 - Do not use colour as the only visual indicator of meaning
     - An example from w3schools: links without an underline become unreadable on grayscale
-        ![A screenshot from the wikipedia article on colour blindness. The CSS has been modified so that the links are coloured blue, without an underline](/assets/notes/img_wikipedia_colors.png)
-        ![A screenshot from the same wikipedia article as before, using the same CSS, but with a greyscale filter. The links have become near indistinguishable from regular text](/assets/notes/img_wikipedia_grayscale.png)
+        ![A screenshot from the wikipedia article on colour blindness. The CSS has been modified so that the links are coloured blue, without an underline](assets/img_wikipedia_colors.png)
+        ![A screenshot from the same wikipedia article as before, using the same CSS, but with a greyscale filter. The links have become near indistinguishable from regular text](assets/img_wikipedia_grayscale.png)
     - Add text and/or icons alongside colour to communicate meaning
 
 
 ## Links
 - Use `text-underline-offset` and `text-decoration-color` for improved readability
     Example from w3schools:
-    ![A screenshot from the wikipedia article on colour blindness. The CSS has been modified so that the distinctive blue links are decorated using a soft grey line a few pixels below it](/assets/notes/img_wikipedia_underline_improved.png)
+    ![A screenshot from the wikipedia article on colour blindness. The CSS has been modified so that the distinctive blue links are decorated using a soft grey line a few pixels below it](assets/img_wikipedia_underline_improved.png)
 - If using (for example) a logo as a link, add an `aria-label`, (e.g. `aria-label="Toyota front page"`)
 - Stip down accessible names on links & buttons, remove `go to`/`page`. For example, `aria-label="Global distributors"` is enough
 
@@ -144,8 +144,8 @@ Three tips are described on w3schools:
 - Make hover very clear. Consider adding (for example) bold text on hover
 
 *(The following two gifs and theur alt text are also adapted from w3schools)*
-![Animated image showing a subtle hover effect for a navigation tree through a change in colour](/assets/notes/hover-with-colour.gif)
-![Animated image showing an improved hover effect for a navigation three through additionally to the change in colour, making the text bold](/assets/notes/hover-with-colour-and-bold.gif)
+![Animated image showing a subtle hover effect for a navigation tree through a change in colour](assets/hover-with-colour.gif)
+![Animated image showing an improved hover effect for a navigation three through additionally to the change in colour, making the text bold](assets/hover-with-colour-and-bold.gif)
 
 ### Accessible link text
 - Makes sense without any context
@@ -221,7 +221,7 @@ Two options
 
 Example from w3schools:
 
-![A screenshot of a form. The top label says "Your date of birth*". Under it you see three label and input combinations for Day, Month and Year respectively](/assets/notes/img_fieldset_example.png)
+![A screenshot of a form. The top label says "Your date of birth*". Under it you see three label and input combinations for Day, Month and Year respectively](assets/img_fieldset_example.png)
 ```html
 
 <fieldset>
@@ -281,16 +281,16 @@ Some people need larger text to perceive letters
 - `height`: avoid using absolute heights (e.g. `66px;`), and instead letting line-height & font-size run
 
 ### Original
-![A screenshot of the LG India web page. With the exception of the price, all text is 18px. The before-discount price is large, but the discount amount & percent are smaller than the default text](/assets/notes/img_lg_original.png)
+![A screenshot of the LG India web page. With the exception of the price, all text is 18px. The before-discount price is large, but the discount amount & percent are smaller than the default text](assets/img_lg_original.png)
 
 ### Original, zoomed in
-![A screenshot of the LG India web page, but with a browser which has a 40px font-size. With the exception of the review star amount text moving down a few pixels, it looks exactly the same as before setting the browser text size](/assets/notes/img_lg_original_zoomed.png)
+![A screenshot of the LG India web page, but with a browser which has a 40px font-size. With the exception of the review star amount text moving down a few pixels, it looks exactly the same as before setting the browser text size](assets/img_lg_original_zoomed.png)
 
 ### With rem font-size
-![A screenshot of the LG India web page, but with the browser setting on 40px font-size, as well as the css now using a rem unit font-size. The text is considerably bigger now, but its cut off on overflow and squished together](/assets/notes/img_lg_rem.png)
+![A screenshot of the LG India web page, but with the browser setting on 40px font-size, as well as the css now using a rem unit font-size. The text is considerably bigger now, but its cut off on overflow and squished together](assets/img_lg_rem.png)
 
 ### With rem font-size, line-height, and with height and -webkit-line-clamp: 3 removed
-![A screenshot of the LG India web page, but with the browser setting on 40px font-size, as well as the css now using a rem unit font-size, line-height being set to 1.2 instead of using a px unit, the absolute height removed, as well as the three line limit being removed. The text is now larger, properly spaced and no longer clipping](/assets/notes/img_lg_rem_line_height_no_height.png)
+![A screenshot of the LG India web page, but with the browser setting on 40px font-size, as well as the css now using a rem unit font-size, line-height being set to 1.2 instead of using a px unit, the absolute height removed, as well as the three line limit being removed. The text is now larger, properly spaced and no longer clipping](assets/img_lg_rem_line_height_no_height.png)
 
 ## Zoom - Page
 
