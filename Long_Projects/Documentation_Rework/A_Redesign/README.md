@@ -9,9 +9,9 @@ The problems with the RPIO & S.W documentation were multiple:
 
 The redesign had to ideally fix all of this. That's a decent amount:
 - Standardise everything (1)
-- Contain everything ([B_Adapting_Existing_Content in this repo](../B_Adapting_Existing_Content/))
+- Contain everything (2)
 - Still make it easy to write (1)
-- Display everything nicely (2)
+- Display everything nicely (3)
 - Still adhere to our company's values (1)
 - Create an easier onboarding process (2)
 
