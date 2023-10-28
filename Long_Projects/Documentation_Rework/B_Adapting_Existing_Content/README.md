@@ -1,5 +1,8 @@
 # B_Adapting_Existing_Content
 
+Time for the bottom part of the overview!
+![An overview of my documentation rework efforts](../_assets/documentation-rework.excalidraw.svg)
+
 ## 01_Blog_And_Existing_Docs
 This was/is a lot.
 
