@@ -1,6 +1,7 @@
-# 01_Semantic_Docs
-- https://github.com/Denperidge-Redpencil/semantic-docs
-- http://redpencil.denperidge.com/semantic-docs/Microservices/login-service
+# 00_Context
+
+Before continuing, the following conditions at the time of writing should be noted about the semantic.works website:
+
 
 <table>
     <tr>
@@ -13,7 +14,6 @@
         <th>Minimal vendor-lock-in</th>
         <th>(Fully) responsive</th>
         <th>Accessibility improvements</th>
-        <th>Doesn't need specific hosting</th>
         <th>Dogfooding</th>
     </tr>
     <tr>
@@ -26,35 +26,15 @@
         <th>❌</th>
         <th>❌</th>
         <th>❌</th>
-        <th>❕(1)</th>
-        <th>❌</th>
-    </tr>
-    <tr>
-        <th>Semantic-docs</th>
-        <th>✔</th>
-        <th>✔</th>
-        <th>❌</th>
-        <th>❌</th>
-        <th>❌</th>
-        <th>✔</th>
-        <th>❕</th>
-        <th>❌</th>
-        <th>✔</th>
         <th>❌</th>
     </tr>
 </table>
+
 
 ✔: Implemented
 ❕: Implemented with caveats
 ❌: Not implemented
 
-Notes:
-1. While static, requires Ember.js compatible hosting
 
 
-## Extra things it did well:
-- No JavaScript needed. I like that. It's all immediate. Can be hosted on a regular static host
-- 
-
-## Extra things it lacked:
-- 
+This is what the following however-many-documents in this section tries to fix.
