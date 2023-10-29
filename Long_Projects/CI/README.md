@@ -1,0 +1,3 @@
+- https://github.com/Denperidge-Redpencil/ci-quickstart
+- https://github.com/Denperidge-Redpencil/cicd-templates
+- https://github.com/Denperidge-Redpencil/cicd-tester
