@@ -1,4 +1,11 @@
 # 01_Semantic_Docs
+
+Navigation:
+- [..](../)
+- [00_Context](00_Context.md)
+- [02_Automated_Frontend_Semantic_Works](02_Automated_Frontend_Semantic_Works.md)
+
+
 - https://github.com/Denperidge-Redpencil/semantic-docs
 - http://redpencil.denperidge.com/semantic-docs/Microservices/login-service
 

@@ -1,5 +1,9 @@
 # 00_Context
 
+Navigation:
+- [..](../)
+- [01_Semantic_Docs](01_Semantic_Docs.md)
+
 Before continuing, the following conditions at the time of writing should be noted about the semantic.works website:
 
 

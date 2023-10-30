@@ -1,4 +1,8 @@
 # CI
+
+Navigation:
+- [..](../)
+
 Redpencil was moving from Drone to Woodpecker due to the formers' license change (see [Drone, Haskell & Woodpecker header below](#drone-haskell-and-woodpecker)), frustrated with the vendor lock in and the migration process and difficulty updating every single repo. Here are some notes about [CI platforms](#platform-notes), and subsequent projects to facilitate [CI migration & usage](#projects) 
 
 ## Platform notes
