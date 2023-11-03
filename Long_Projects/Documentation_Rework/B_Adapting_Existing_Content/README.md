@@ -31,4 +31,4 @@ The main introduction to the stack came in a series of videos. Some of them cont
 
 For those who care about the end result, the getting started section at the top of [/README.md, Denperidge-Redpencil/du-project @ GitHub](https://github.com/Denperidge-Redpencil/du-project/tree/master) links to files created with the masterclass content.
 
-For those that want to see the process more in depth, feel free to look at [02_Masterclass_Import.md](02_Masterclass_Import.md).
+For those that want to see the process more in depth, feel free to look at [Extra_Masterclass_Import.md](Extra_Masterclass_Import.md).
