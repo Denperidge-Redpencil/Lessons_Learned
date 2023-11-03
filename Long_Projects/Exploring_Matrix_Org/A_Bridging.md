@@ -1,5 +1,12 @@
-# Learning.md: Integrating Rocketchat & Matrix
+# OO_Bridging
+Navigation:
+- [..](../)
+- [B_Matrix_Bots](B_Matrix_Bots.md)
+
+**Original title: Learning.md: Integrating Rocketchat & Matrix**
+
 [blog announcement](https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix) - [docs](https://docs.rocket.chat/guides/administration/admin-panel/settings/federation/matrix-bridge)
+
 
 Moving platforms sucks. Because there's no good way to do it. People are used to the workflows and UI's of the previous thing, and may not like the new thing. But using two different but functionally similar platforms is how you get miscommunications. This bridge might allow a slow transition! I wanna test if this perhaps could even import previous conversations. ~~If you're reading this and it hasn't been strikethroughed, I haven't yet.~~ But either way, it's worth checking out.
 
