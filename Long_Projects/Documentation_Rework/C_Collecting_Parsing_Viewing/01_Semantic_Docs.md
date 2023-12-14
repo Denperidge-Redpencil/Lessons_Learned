@@ -8,16 +8,15 @@ Navigation:
 ## Info
 - Date: December 16
 - Repo: https://github.com/Denperidge-Redpencil/semantic-docs
-- Deployment: http://redpencil.denperidge.com/semantic-docs/Microservices/login-service
+- Deployment: http://redpencil.denperidge.com/semantic-docs/
 
+A relatively simple script, using public api's to collect repos & jinja2 to export a static website.
 
-Notes:
-1. While static, requires Ember.js compatible hosting
-
-
-## Extra things it did well:
+## Things it did well:
 - No JavaScript needed. I like that. It's all immediate. Can be hosted on a regular static host
-- 
+- Rather simple codebase
+- Can be re-run without maintenace to add new repos
 
-## Extra things it lacked:
-- 
+## Things it lacked:
+- Incredibly basic styling
+- Aside from showing the README contents, it doesn't do much
