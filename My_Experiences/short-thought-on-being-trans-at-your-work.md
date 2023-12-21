@@ -2,13 +2,13 @@
 
 As some of you may know, I am trans! Sadly, as the current social/political climate mandates, a portion of the time since I knew has been spent in the closet. But luckily that time has been over for a good second! I'm happy with my gender, my body, and the amazing people around me who have supported and stuck with me through a lot of it.
 
-Now, a couple of days ago I was talking to one of my partners. One of their colleagues had discovered they were trans by accident. 
+Now, a couple of days ago I was talking to one of my partners. One of their colleagues had discovered they were trans by accident. They said:
 
     I don't exactly hide it, but I also don't want to have to get up in front of my co-workers and do an announcement of "hey, I'm trans!"
     [...]
     And, well, [the co-worker who knows] still calls me [by the incorrect pronouns]. But it's something I guess.
 
-The fact that coming out would require a draw of attention and thus possible scrutiny, sucks. It's a fact that most queer people begrudgingly accept. Unless the place has measures of protection and/or accomodation in place, the results are up in the air. And losing your source of food and a roof above your head is less of a detriment of the exhaustion and dysphoria of being spoken to and often treated as the gender that isn't yours. But that's a gigantic conversation about a topic that will only better with increased understanding and acceptation of non-traditional gender stuff. My silly little blog post is not exactly the activistic masterpiece that's gonna change that. I might do a writeup sometime of my personal POV on how it could be improved, but that's currently out of scope.
+The fact that coming out would require a draw of attention and thus possible scrutiny, sucks. It's a fact that most queer people begrudgingly accept. Unless the place has measures of protection and/or accomodation in place, the results are up in the air. And losing your source of food and a roof above your head is just one of the detriments next to the exhaustion and dysphoria of being spoken to and often inherently treated as the gender that isn't yours (but that's a gigantic conversation about a topic that will only better with increased understanding and acceptation of non-traditional gender stuff). My silly little blog post is not exactly the activistic masterpiece that's gonna change that. I might do a writeup sometime of my personal POV on how it could be improved, but that's currently out of scope.
 
 But I guess I wanted to talk about what it's been like in my professional career, specifically with Open Summer Of Code and of course the OSOC collaborator and my current employer, Redpencil!
 
@@ -17,11 +17,11 @@ I entered Open Summer Of Code as an anxious little goofball.
 
 ![A person wearing a yellow shirt, smiling at the camera with their left arm raised and left hand behind their back. Their hair is pink and reaches nearly the end of their shoulders, with bangs swept to their left side using a pink hairclip. They're wearing a thin metal headgear with cat ears, and a necklace with the trans flag](https://osoc.be/_next/image?url=%2Feditions%2F2021%2Fparticipants%2Fcat-catry.jpg&w=640&q=75)
 
-I signed up, and near-immmediately asked the organisational staff "hey, all my paperwork will be under **beep**, but if you could like not address me not as a guy and also not using **beep** that would rule".
+I signed up, and near-immmediately contacted the organisational staff. "Hey, all my paperwork will be under **beep**, but if you could like not address me as a guy and also not use **beep** that would rule".
 
 And they did?!
 
-The only goof was a powerpoint with some automatic text having my old name in it. Which they as soon as I texted them about it, they *immediately* changed.
+The only goof was a powerpoint with some automatic text having my old name in it. Which as soon as I texted them about it, they *immediately* changed.
 
 This was the first time I've ever professionally used my chosen name and presented alternatively. But luckily my nerves were able to crystallise into me being very hyperactive and all over the place. A lot of people did their remote group photo using a screenshot of a videocall, but I photoshopped our team into Voltron. I posted music and then we (especially Chris, our coach who I adore and if you are reading this HI!) started a fake cult about the audio recording software that wouldn't remove the audio watermark even though a legit license was bough- I'm getting off track.
 
